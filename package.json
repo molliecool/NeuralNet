@@ -1,5 +1,7 @@
 {
   "name": "NeuralNet",
+  "version": "0.0.1",
+  "repository": "https://github.com/molliecool/NeuralNet",
   "private": true,
   "scripts": {
     "start": "meteor run"
